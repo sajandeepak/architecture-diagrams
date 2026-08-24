@@ -28,6 +28,9 @@
         <mxCell id="GyV2wykm-IdrSrDU3RWV-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Benefits&lt;div&gt;&lt;ol&gt;&lt;li&gt;Ideal Architecture for migrating exiting op-premises workload to cloud without mordanization&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="540" x="130" y="490" as="geometry" />
         </mxCell>
+        <mxCell id="GyV2wykm-IdrSrDU3RWV-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Initializing VM with app in VMSS&lt;div&gt;&lt;ol&gt;&lt;li&gt;One option is to initialize create VMSS with user data eg (app-init.yml)&lt;/li&gt;&lt;li&gt;And the user data in eg app-init,yaml will have steps for openliberty installation, getting app war from Blob storage and deploy it and&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="540" x="130" y="580" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
