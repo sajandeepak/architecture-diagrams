@@ -52,6 +52,12 @@
             <mxPoint x="700" y="707.02" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="GyV2wykm-IdrSrDU3RWV-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Subnet 1" vertex="1">
+          <mxGeometry height="30" width="60" x="250" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="GyV2wykm-IdrSrDU3RWV-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Subnet 2" vertex="1">
+          <mxGeometry height="30" width="60" x="360" y="470" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
