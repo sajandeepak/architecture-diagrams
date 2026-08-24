@@ -25,6 +25,9 @@
             <mxPoint x="621" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="GyV2wykm-IdrSrDU3RWV-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Benefits&lt;div&gt;&lt;ol&gt;&lt;li&gt;Ideal Architecture for migrating exiting op-premises workload to cloud without mordanization&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="540" x="130" y="490" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
